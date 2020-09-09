@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "AAA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "etra:etratium_block"
+    }
+  },
+  "result": {
+    "item": "etra:etratium_block_double",
+    "count": 1
+  }
+}

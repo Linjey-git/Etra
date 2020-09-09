@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CAD",
+    " BF",
+    " B "
+  ],
+  "key": {
+    "A": {
+      "item": "etra:etratium_axe"
+    },
+    "B": {
+      "item": "minecraft:stick"
+    },
+    "C": {
+      "item": "etra:etratium_pickaxe"
+    },
+    "D": {
+      "item": "etra:etratium_sword"
+    },
+    "F": {
+      "item": "etra:etratium_shovel"
+    }
+  },
+  "result": {
+    "item": "etra:etratium_multitool",
+    "count": 1
+  }
+}

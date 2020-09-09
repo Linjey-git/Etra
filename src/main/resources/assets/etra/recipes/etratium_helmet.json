@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "A A"
+  ],
+  "key": {
+    "A": {
+      "item": "etra:etratium_block_double"
+    }
+  },
+  "result": {
+    "item": "etra:etratium_helmet",
+    "count": 1
+  }
+}

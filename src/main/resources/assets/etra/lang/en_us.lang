@@ -1,0 +1,32 @@
+//Items
+item.etratium_ingot.name=Etratium ingot
+
+//Blocks
+tile.etratium_ore.name=Etratium ore
+tile.etratium_block.name=Etratium block
+tile.etratium_block_double.name=Doublu Etratium block
+
+
+//Machines
+
+
+//Tools
+item.etratium_sword.name=Etratium sword
+item.etratium_pickaxe.name=Etratium pickaxe
+item.etratium_axe.name=Etratium axe
+item.etratium_shovel.name=Etratium shovel
+item.etratium_hoe.name=Etratium hoe
+item.etratium_multitool.name=Etratium multitool
+
+//Armor
+item.etratium_helmet.name=Etratium helmet
+item.etratium_chestplate.name=Etratium chestplate
+item.etratium_leggs.name=Etratium leggs
+item.etratium_boots.name=Etratium boots
+
+//Adchivments
+
+
+
+//name
+itemGroup.etra_tab=Etra

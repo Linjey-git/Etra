@@ -1,0 +1,33 @@
+//Items
+item.etratium_ingot.name=Этратиумовый слиток
+
+//Blocks
+tile.etratium_block.name=Этратиумовый блок
+tile.etratium_ore.name=Этратиумовая руда
+tile.etratium_block_double.name=Двойной Этратиумовый блок
+
+
+//Machines
+
+
+//Tools
+item.etratium_sword.name=Этратиумовый мечь
+item.etratium_pickaxe.name=Этратиумовая кирка
+item.etratium_axe.name=Этратиумовый топор
+item.etratium_shovel.name=Этратиумовая лопата
+item.etratium_hoe.name=Этратиумовая мотыга
+item.etratium_multitool.name=Этратиумовый мультитул
+
+//Armor
+item.etratium_helmet.name=Этратиумовый шлем
+item.etratium_chestplate.name=Этратиумовый нагрудник
+item.etratium_leggs.name=Этратиумовые поножи
+item.etratium_boots.name=Этратиумовые ботинки
+
+
+//Adchivments
+
+
+
+//name
+itemGroup.etra_tab=Etra

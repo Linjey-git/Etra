@@ -1,0 +1,16 @@
+[
+{
+  "modid": "etra",
+  "name": "Etra",
+  "description": "Example placeholder mod.",
+  "version": "${version}",
+  "mcversion": "${version}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Fo4Ik"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
