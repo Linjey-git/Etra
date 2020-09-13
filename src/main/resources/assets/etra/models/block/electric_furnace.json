@@ -1,0 +1,15 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "model": "cube_all",
+    "textures": {
+      "particle": "etra:blocks/electric_furnace",
+      "north": "etra:blocks/electric_furnace",
+      "south": "etra:blocks/side",
+      "west": "etra:blocks/side",
+      "east": "etra:blocks/side",
+      "up": "etra:blocks/top",
+      "down": "etra:blocks/bottom"
+    }
+  }
+}

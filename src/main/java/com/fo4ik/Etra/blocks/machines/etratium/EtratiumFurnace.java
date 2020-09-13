@@ -2,7 +2,6 @@ package com.fo4ik.Etra.blocks.machines.etratium;
 
 import com.fo4ik.Etra.Main;
 import com.fo4ik.Etra.Reference;
-import com.fo4ik.Etra.blocks.EtratiumBlock;
 import com.fo4ik.Etra.init.InitBlocks;
 import com.fo4ik.Etra.init.InitItems;
 import com.fo4ik.Etra.utils.interfaces.HasModel;
@@ -61,7 +60,7 @@ public class EtratiumFurnace extends Block implements ITileEntityProvider, HasMo
     public boolean onBlockActivated(World worldIn, BlockPos pos, IBlockState state, EntityPlayer playerIn, EnumHand hand, EnumFacing facing, float hitX, float hitY, float hitZ) {
 
         if (!worldIn.isRemote) {
-            playerIn.openGui(Main.instance, Reference.GUI_ETRATIUM_RURNACE, worldIn, pos.getX(), pos.getY(), pos.getZ());
+            playerIn.openGui(Main.instance, Reference.GUI_ETRATIUM_FURNACE, worldIn, pos.getX(), pos.getY(), pos.getZ());
         }
 
         return true;

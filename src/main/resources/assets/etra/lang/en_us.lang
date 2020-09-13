@@ -8,7 +8,7 @@ tile.etratium_block_double.name=Doublu Etratium block
 
 
 //Machines
-
+tile.electric_furnace=Electric Furnace
 
 //Tools
 item.etratium_sword.name=Etratium sword

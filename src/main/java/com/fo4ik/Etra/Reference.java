@@ -9,6 +9,6 @@ public class Reference {
     public static final String CLIENT = "com.fo4ik.Etra.proxy.ClientProxy";
     public static final String COMMON = "com.fo4ik.Etra.proxy.CommonProxy";
 
-    public static final int GUI_ETRATIUM_RURNACE = 0;
+    public static final int GUI_ETRATIUM_FURNACE = 0;
 
 }

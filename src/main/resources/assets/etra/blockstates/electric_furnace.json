@@ -1,0 +1,26 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "model": "cube",
+    "textures": {
+      "north": "etra:blocks/electric_furnace",
+      "south": "etra:blocks/side",
+      "west": "etra:blocks/side",
+      "east": "etra:blocks/side",
+      "up": "etra:blocks/top",
+      "down": "etra:blocks/bottom"
+    }
+  },
+  "variants": {
+    "normal": [{}],
+    "inventory": [{}],
+    "facing": {
+      "north": {},
+      "south": {"y": 180},
+      "west": {"y": 270},
+      "east": {"y": 90},
+      "up": {"x": -90},
+      "down": {"x": 90}
+    }
+  }
+}

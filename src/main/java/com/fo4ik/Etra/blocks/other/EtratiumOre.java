@@ -1,4 +1,4 @@
-package com.fo4ik.Etra.blocks;
+package com.fo4ik.Etra.blocks.other;
 
 import com.fo4ik.Etra.Main;
 import com.fo4ik.Etra.init.InitBlocks;

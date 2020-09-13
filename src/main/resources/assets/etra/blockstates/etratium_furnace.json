@@ -1,13 +1,13 @@
 {
   "variants":
   {
-    "burning=false,facing=north": { "model": "etra:etratium_furnace" },
-    "burning=false,facing=east": { "model": "etra:etratium_furnace", "y": 90 },
-    "burning=false,facing=south": { "model": "etra:etratium_furnace", "y": 180 },
-    "burning=false,facing=west": { "model": "etra:etratium_furnace", "y": 270 },
-    "burning=true,facing=north": { "model": "etra:etratium_furnace" },
-    "burning=true,facing=east": { "model": "etra:etratium_furnace", "y": 90 },
-    "burning=true,facing=south": { "model": "etra:etratium_furnace", "y": 180 },
-    "burning=true,facing=west": { "model": "etra:etratium_furnace", "y":270  }
+    "burning=false,facing=north": { "model": "etra:electric_furnace" },
+    "burning=false,facing=east": { "model": "etra:electric_furnace", "y": 90 },
+    "burning=false,facing=south": { "model": "etra:electric_furnace", "y": 180 },
+    "burning=false,facing=west": { "model": "etra:electric_furnace", "y": 270 },
+    "burning=true,facing=north": { "model": "etra:electric_furnace" },
+    "burning=true,facing=east": { "model": "etra:electric_furnace", "y": 90 },
+    "burning=true,facing=south": { "model": "etra:electric_furnace", "y": 180 },
+    "burning=true,facing=west": { "model": "etra:electric_furnace", "y":270  }
   }
 }
